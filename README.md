@@ -13,4 +13,10 @@
   
 ## 📊Profile overview
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghad-ns&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghad-ns&layout=donut&theme=dark)](https://github.com/raghad-ns/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghad-ns&layout=compact&theme=dark)](https://github.com/raghad-ns/github-readme-stats)
+
+## Languages and technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,aws,docker,fastapi,py,java,cpp,latex,mongodb,node.js,npm,postman,js,html,css,react,tailwind,ts,vite,vscode,vue)](https://skillicons.dev)
+
+## Contact
