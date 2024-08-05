@@ -18,7 +18,7 @@
 
 ## Languages and technologies
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,aws,docker,fastapi,py,java,cpp,latex,mongodb,nodejs,npm,postman,js,html,css,react,tailwind,ts,vite,vscode,vue&perline=12)](https://skillicons.dev)
-[![cypress]([https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png](https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png))]
+[[![cypress]([https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png](https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png))]](https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png)
 <!--
 ## Contact
 ![linkedin](https://github.com/user-attachments/assets/d121e3cd-28b0-4761-947b-ae516bacbb89)[1]
